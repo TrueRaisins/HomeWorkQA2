@@ -1,5 +1,5 @@
 public class ProjectEmployers {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         int Programmer, Test, Test_All, Sup_Spec, Sup_Spec_All, All_Employeers;
         //T - количество тестеровщиков на одного программиста, Test_All - всего тестеровщиков
         Programmer = 4;

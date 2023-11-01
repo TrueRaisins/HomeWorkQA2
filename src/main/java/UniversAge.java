@@ -1,8 +1,8 @@
 public class UniversAge {
     public static void main(String[] agrs) {
-        long UniversAge = 1300000000;
-        int HumanityAge = 100000;
-        float AgeDifference = UniversAge / HumanityAge;
+        long UniversAge = 13000000000L;
+        long HumanityAge = 100000L;
+        long AgeDifference = UniversAge / HumanityAge;
 
         System.out.println(AgeDifference);
     }
