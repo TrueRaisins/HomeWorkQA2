@@ -1,4 +1,4 @@
-public class Glass_Fullness {
+public class GlassFullness {
     public static void main(String[] args) {
         final double GlassCapacity = 400;
         // GlassCapacity - объем стакана в миллилитрах
