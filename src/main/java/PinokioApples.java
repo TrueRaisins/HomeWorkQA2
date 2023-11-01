@@ -1,10 +1,9 @@
 public class PinokioApples {
     public static void main(String[] args) {
-        int Pinokio_Have, Karabas_Stole, Pinokio_Save;
-        Pinokio_Have = 17;
-        Karabas_Stole = 3;
-        Pinokio_Save = Pinokio_Have - Karabas_Stole;
+        int PinokioHave = 17;
+        int KarabasStole = 3;
+        int PinokioSave = PinokioHave - KarabasStole;
 
-        System.out.println(Pinokio_Save);
+        System.out.println(PinokioSave);
     }
 }
